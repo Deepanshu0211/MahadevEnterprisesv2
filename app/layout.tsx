@@ -14,7 +14,7 @@ import AuthProvider from "@/components/session-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Dharmik Vadaliya | Vibrant Indian Handicrafts & Home Decor",
+  title: "Mahadev Enterprises | Vibrant Indian Handicrafts & Home Decor",
   description: "Discover authentic Indian handicrafts and home decor with a modern shopping experience",
     generator: 'v0.dev'
 }

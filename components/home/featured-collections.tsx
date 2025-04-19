@@ -111,7 +111,7 @@ export default function FeaturedCollections() {
                 <h3 className="text-2xl font-bold mb-2">{collection.name}</h3>
                 <p className="text-white/90 mb-4">{collection.description}</p>
                 <Link href={`/collections/${collection.id}`}>
-                  <Button className="bg-black text-gray-900 hover:bg-black/90 group flex items-center">
+                  <Button className="bg-white text-gray-900 hover:bg-black/90 group flex items-center">
                     Explore Collection
                     <ArrowRight className="ml-2 h-4 w-4 transform transition-transform duration-300 ease-in-out group-hover:translate-x-1.5" />
                   </Button>
